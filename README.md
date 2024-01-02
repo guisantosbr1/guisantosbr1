@@ -1,6 +1,6 @@
 Olá, Devs :v:
 
-🚀 Programador Front-end. Atualmente imerso no universo do desenvolvimento web, estou aprimorando minhas habilidades com 
+🚀 Programador Front-end. Atualmente imerso no universo do desenvolvimento web, estou aprimorando minhas habilidades com :point_down:
 <br></br>
 
 
