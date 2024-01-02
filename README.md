@@ -18,7 +18,5 @@ Olá, Devs :v:
   </p>
   <br/>
   <br/>
-      
-  [![Guilherme Stats](https://github-readme-stats.vercel.app/api?username=guisantosbr1)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisantosbr1)](https://github.com/anuraghazra/github-readme-stats)
